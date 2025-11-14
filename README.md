@@ -14,7 +14,4 @@ It includes:
 
 ## Contact
 
-Email: s1143510@mail.yzu.edu.tw  
-GitHub: https://github.com/1143510Eric
-
-Website: https://1143510Eric.github.io/portfolio-eric/
+Email: s1143510@mail.yzu.edu.tw
