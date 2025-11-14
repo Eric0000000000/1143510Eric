@@ -6,9 +6,9 @@
 
 ## 3 Projects
 
-- Quantum Computing Camp Certificate
-- BMI Calculator in C++
-- English Essay on Smart Washing Machines
+Quantum Computing Camp Certificate
+BMI Calculator in C++
+English Essay on Smart Washing Machines
 
 ## Contact Info
 
