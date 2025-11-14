@@ -12,10 +12,6 @@ It includes:
 2. BMI Calculator in C++
 3. English Essay on Smart Washing Machines
 
-## Deployment
-
-Published via GitHub Pages from the `main` branch.
-
 ## Contact
 
 Email: s1143510@mail.yzu.edu.tw  
