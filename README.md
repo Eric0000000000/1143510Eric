@@ -1,7 +1,6 @@
 # Eric's Portfolio Website
 
 It includes:
-
 - A short bio
 - Three featured projects
 - Contact information
@@ -14,4 +13,4 @@ It includes:
 
 ## Contact Info
 
-Email: s1143510@mail.yzu.edu.tw
+Outlook: s1143510@mail.yzu.edu.tw
